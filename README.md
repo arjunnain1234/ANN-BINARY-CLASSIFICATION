@@ -77,6 +77,8 @@ The prediction model evaluates the following customer attributes:
 ## ☁️ Live Demo
 
 Check out the live deployment of the app here: [Customer Retention Predictor Live App](https://ann-binary-classification.streamlit.app/)
+<img width="1072" height="1390" alt="image" src="https://github.com/user-attachments/assets/b163b4c0-57ae-4324-824e-ae37be590466" />
+
 
 ---
 
